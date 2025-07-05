@@ -40,5 +40,15 @@ Achievements: 150+ LeetCode Problems Solved
 🌸 Build with beauty.
 🚀 Dream like there’s no limit.
 
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=Profile+Views&color=0e75b6&style=flat" alt="lokeshloki65" />
+</p>
 
