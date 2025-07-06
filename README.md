@@ -16,7 +16,7 @@
 
 - 🌟 I'm **Lithika** from **Vellore, India**
 - 🎓 Third-year **B.Tech** Student in **Artificial Intelligence & Data Science**
-- 🧠 Enthusiastic in AI & ML with strong knowledge in **KNN & CNN**
+- 🧠 Enthusiastic in AI & ML with strong knowledge in **Machine Learning & Deep Learning**
 - 🏆 Solved **150+ LeetCode problems**
 - 💡 Passionate about coding, deep learning, and real-world problem-solving
 
